@@ -6,3 +6,13 @@
     height: 698px;
     width: 100%;
 }
+
+.review {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-weight: 700;
+}
+
+.card {
+    margin-bottom: 50px;
+}

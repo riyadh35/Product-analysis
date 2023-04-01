@@ -1,9 +1,8 @@
 [
     {
-        "month": "Mar",
-        "investment": 100000,
-        "sell": 241,
-        "revenue": 10401
+        "title": "Super Car",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias id repudiandae fugiat nisi! Consectetur corrupti voluptas voluptatum ex, sint, labore eveniet amet dolore adipisci quasi exercitationem minima blanditiis quibusdam earum.",
+        "Name": "Riayd Mahmud"
     },
     {
         "month": "Apr",
